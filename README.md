@@ -2,7 +2,7 @@
 
 Use [Anyloader](https://anyloader.com/redgifs-downloader) to download clips from [Redgifs](https://redgifs.com) profiles and posts in bulk. This chrome extension allows bulk downloading of media from Redgifs posts and profiles with just one click.
 
-![Redgifs downloader](https://ik.imagekit.io/webscraper/Onlyfans%20downloader/onlyfans%20downloader%20-%20videos.png?updatedAt=1707917537610)
+![Redgifs downloader](https://ik.imagekit.io/webscraper/Onlyfans%20downloader/redgifs-downloader.png?updatedAt=1730658338037)
 
 ## Features
 ### Save media from Redgifs Posts
